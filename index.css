@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: black;
+}
+#imgs{
+	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
+	width: 80%;
+}
+#item{
+	margin-top: 10%;
+	width: 100%;
+}
